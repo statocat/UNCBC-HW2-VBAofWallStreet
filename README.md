@@ -11,11 +11,13 @@ This analysis also revealed that 2017 appeared to be a bull market, with 11 out 
 <br />
 
 ![Refactored-Analysis-2017](VBA_Challenge_2017.png)
+<br />
 *Analysis of 2017 green energy stocks* <br />
 <br />
 
 
 ![Refactored-Analysis-2018](VBA_Challenge_2018.png)
+<br />
 *Analysis of 2018 green energy stocks* <br />
 <br />
 
@@ -31,8 +33,8 @@ The original code produced in the module is inefficent as it loops through all t
 <br />
 
 ![Runtime-Comparison-2018](VBA_runtimeComparision-2018.png)
-*Runtime comparison of original and refactored code to produce 2018 analysis*
 <br />
+*Runtime comparison of original and refactored code to produce 2018 analysis* <br />
 <br />
 As the number of tickers in the dataset increases, the difference in computing time would likely be amplified. If Steve and potentially other financial analysts were to use this code to routinely analyze hundreds or even thousands of stocks, then the refactored code would save both time and computing power.
 
