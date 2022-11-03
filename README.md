@@ -8,11 +8,15 @@ Steve's parents were initially interested in purchasing stocks in a green energy
 
 This analysis also revealed that 2017 appeared to be a bull market, with 11 out of 12 stocks yielding a positive return. But this changed in 2018, with only 2 out of 12 stocks (ENPH and RUN) yielding a positive return. These stocks are also in the top quartile of total daily volume in 2018. That said, the two top-traded stocks in 2017 (FSLR and SPWR) both yielded approximately -40% return in 2018, suggesting daily trading volume is not a reliable metric for success in making long-term investments.
 
+
 ![Refactored-Analysis-2017](VBA_Challenge_2017.png)
 *Analysis of 2017 green energy stocks using refactored VBA subroutine*
 
+
+
 ![Refactored-Analysis-2018](VBA_Challenge_2018.png)
 *Analysis of 2018 green energy stocks using refactored VBA subroutine*
+
 
 Steve's parents would be wise to take their son's advice and focus on building a diversified portfolio, especially as they are nearing retirement age. If they were interested in investing a small proportion of their savings in green energy stocks, they may consider researching ENPH and RUN stocks further, since both fared well in both the bear market of 2018.
 
